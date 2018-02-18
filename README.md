@@ -20,4 +20,6 @@ Dieser Sketch lässt die interne LED im Sekundentakt blinken
 
 Dieser Sketch liest einfach Messwerte im Wertebereicht von 0-1023 vom analogen Pin 5. 
 
+![Setup](resources/img/AnalogReader-Setup.jpg)
+
 ![Plotter](resources/img/AnalogReader-Plotter.png)
